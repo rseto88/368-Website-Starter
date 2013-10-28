@@ -1,6 +1,6 @@
 /* Stylesheet */
 /* Main Navigation */
-#nav {
+li {
   display: inline;
   list-style: none;
   margin: center;
@@ -9,11 +9,4 @@
 
 a {
   text-decoration: none;
-}
-
-#nav1 {
-	 display: inline;
-  	list-style: none;
-	margin: 0px;
-	padding: 20px 30px;
 }
