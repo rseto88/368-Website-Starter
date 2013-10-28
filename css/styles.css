@@ -1,0 +1,19 @@
+/* Stylesheet */
+/* Main Navigation */
+#nav {
+  display: inline;
+  list-style: none;
+  margin: center;
+  padding: 20px 30px;
+}
+
+a {
+  text-decoration: none;
+}
+
+#nav1 {
+	 display: inline;
+  	list-style: none;
+	margin: 0px;
+	padding: 20px 30px;
+}
